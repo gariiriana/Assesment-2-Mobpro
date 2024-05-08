@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Iriana Garage</string>
+    <string name="intro_irianaGarage">
+        Selamat datang di Aplikasi Iriana Garage!
+        \n\nAplikasi jual beli terpercaya dan sering digunakan oleh banyak orang.
+        \nDengan tarif murah :
+        \n12 Jam (Rp 40,000)
+    </string>
+
+    <string name="head">
+        Silahkan pilih kendaraan yang anda sukai!
+    </string>
+
+    <string name="scoopy">Scoopy</string>
+    <string name="vario">Vario</string>
+    <string name="n_max">Nmax</string>
+    <string name="beat">Beat</string>
+
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">
+        Iriana Garage merupakan Aplikasi Android Jual Beli Motor
+        yang dimana aplikasi ini memudahkan penjual dan pembeli
+        dalam pemesanan motor
+
+        \n\nAplikasi ini dibuat untuk Asessment 2 Mobpro.
+        \nCopyright © 2021 - 2024 Gari Iriana.
+        \nSemua hak cipta dilindungi undang-undang.
+    </string>
+
+
+    <string name="kembali">Kembali</string>
+
+    <string name="tambah_kendaraan" translatable="false">Tambah Kendaraan</string>
+    <string name="edit_kendaraan" translatable="false">Edit Kendaraan</string>
+    <string name="hapus_kendaraan" translatable="false">Hapus Kendaraan</string>
+    <string name="invalid" translatable="false">Pembeli, Penjual, dan motor tidak boleh kosong.</string>
+    <string name="simpan_kendaraan" translatable="false">Simpan Kendaraan</string>
+    <string name="nama_pembeli" translatable="false">Nama Pembeli</string>
+    <string name="nama_penjual" translatable="false">Nama Penjual</string>
+    <string name="halaman_pembelian" translatable="false">Halaman Transaksi</string>
+
+    <string name="opsi_lain" translatable="false">Opsi Lain</string>
+    <string name="data_kosong" translatable="false">Tidak Ada Pembelian Motor</string>
+
+    <string name="list" translatable="false">Tampilan list</string>
+    <string name="grid" translatable="false">Tampilan grid</string>
+
+    <string name="pesan_hapus" translatable="false">Hapus catatan ini</string>
+    <string name="tombol_hapus" translatable="false">Hapus</string>
+    <string name="tombol_batal" translatable="false">Batal</string>
+
+
+</resources>
